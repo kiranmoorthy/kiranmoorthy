@@ -124,12 +124,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiranmoorthy&layout=compact&theme=radical" width="70%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=kiranmoorthy&show_icons=true&theme=radical" width="70%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiranmoorthy&layout=compact&theme=radical" width="60%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kiranmoorthy&show_icons=true&theme=radical" width="60%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kiranmoorthy&theme=radical" width="70%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kiranmoorthy&theme=radical" width="60%" />
 </p>
 
 ---
